@@ -1,0 +1,28 @@
+{
+    "status":"success",
+    "data":[
+        {   "id":0,
+            "day":[
+                {
+                    "type":"JavaScript高级",
+                    "date":"2021-06-16",
+                    "money":"-124.99",
+                    "detail":"太难顶了呀"
+                },
+                {
+                    "type":"ES6",
+                    "date":"2021-06-16",
+                    "money":"-89.68",
+                    "detail":"还没看过"
+                },
+                {
+                    "type":"JS设计模式",
+                    "date":"2021-06-16",
+                    "money":"-110.00",
+                    "detail":"冲他丫的"
+                }
+            ],
+            "total":"51.33"
+        }
+    ]
+}
